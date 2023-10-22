@@ -4,10 +4,10 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:id_generator/animations/shake-widget.dart';
 import 'package:id_generator/pages/signup.dart';
-import 'package:id_generator/pages/student_home.dart';
+// import 'package:id_generator/pages/student_home.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:get/get.dart';
-import 'package:shared_preferences/shared_preferences.dart';
+// import 'package:shared_preferences/shared_preferences.dart';
 
 class VerifyPhoneScreen extends StatefulWidget {
   const VerifyPhoneScreen({super.key});

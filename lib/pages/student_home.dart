@@ -14,6 +14,7 @@ class StudentHome extends StatefulWidget {
 }
 
 class _StudentHomeState extends State<StudentHome> {
+  // ignore: unused_field
   String _platformVersion = 'Unknown';
   String uuid = '';
   String name = '';
